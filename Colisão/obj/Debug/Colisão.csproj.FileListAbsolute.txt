@@ -1,0 +1,8 @@
+D:\Etec\Modulo 2\Desenvolvimento de Sisemas (Saiz)\Colisão\Colisão\bin\Debug\Colisão.exe.config
+D:\Etec\Modulo 2\Desenvolvimento de Sisemas (Saiz)\Colisão\Colisão\bin\Debug\Colisão.exe
+D:\Etec\Modulo 2\Desenvolvimento de Sisemas (Saiz)\Colisão\Colisão\bin\Debug\Colisão.pdb
+D:\Etec\Modulo 2\Desenvolvimento de Sisemas (Saiz)\Colisão\Colisão\obj\Debug\Colisão.csprojResolveAssemblyReference.cache
+D:\Etec\Modulo 2\Desenvolvimento de Sisemas (Saiz)\Colisão\Colisão\obj\Debug\Colisão.MainForm.resources
+D:\Etec\Modulo 2\Desenvolvimento de Sisemas (Saiz)\Colisão\Colisão\obj\Debug\Colisão.csproj.GenerateResource.Cache
+D:\Etec\Modulo 2\Desenvolvimento de Sisemas (Saiz)\Colisão\Colisão\obj\Debug\Colisão.exe
+D:\Etec\Modulo 2\Desenvolvimento de Sisemas (Saiz)\Colisão\Colisão\obj\Debug\Colisão.pdb
